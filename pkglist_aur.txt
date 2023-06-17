@@ -1,0 +1,11 @@
+appimagelauncher
+betterdiscord-installer
+catppuccin-gtk-theme-frappe
+downgrade
+kernel-install-for-dracut
+pycharm-professional
+reflector-simple
+slurp-git
+spicetify-cli
+spotify
+yay
